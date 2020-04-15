@@ -2,5 +2,4 @@
 # returns the phrase
 def parrot (noise= "Squawk!")
   puts #{noise}
-  return "Squawk!"
-end
+endleanr
